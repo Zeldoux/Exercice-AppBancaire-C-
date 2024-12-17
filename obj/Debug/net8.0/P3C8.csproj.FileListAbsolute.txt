@@ -1,0 +1,15 @@
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\bin\Debug\net8.0\P3C8.exe
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\bin\Debug\net8.0\P3C8.deps.json
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\bin\Debug\net8.0\P3C8.runtimeconfig.json
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\bin\Debug\net8.0\P3C8.dll
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\bin\Debug\net8.0\P3C8.pdb
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\obj\Debug\net8.0\P3C8.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\obj\Debug\net8.0\P3C8.AssemblyInfoInputs.cache
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\obj\Debug\net8.0\P3C8.AssemblyInfo.cs
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\obj\Debug\net8.0\P3C8.csproj.CoreCompileInputs.cache
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\obj\Debug\net8.0\P3C8.sourcelink.json
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\obj\Debug\net8.0\P3C8.dll
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\obj\Debug\net8.0\refint\P3C8.dll
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\obj\Debug\net8.0\P3C8.pdb
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\obj\Debug\net8.0\P3C8.genruntimeconfig.cache
+A:\Work\OpenClassrooms\Cours\Csharp\7973891-apprenez-a-programmer-en-c-main\P3\P3C8\obj\Debug\net8.0\ref\P3C8.dll
